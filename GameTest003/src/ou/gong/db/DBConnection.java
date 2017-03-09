@@ -44,7 +44,7 @@ public class DBConnection {
 			getCon();
 			if(con!=null){
 				try{		
-					System.out.println(sql);
+			
 					pstm = con.prepareStatement(sql, ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_READ_ONLY);
 					for(int i=0;i<params.length;i++){
 						pstm.setObject(i+1,params[i]);

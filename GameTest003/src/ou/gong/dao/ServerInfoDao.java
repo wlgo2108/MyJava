@@ -46,12 +46,14 @@ public class ServerInfoDao {
 		
 		return sList ;
 	}
+
+
 	
 	
-	public List<ServerInfo> getServerByName(String server_name) {
+	public List<ServerInfo> getServerInfoByProId(int pro_id) {
 		List<ServerInfo> sList = new ArrayList<ServerInfo> () ;
-		String sql = "select * from tb_proinfo where server_name = ?" ;
-		db.doPstm(sql, new String[]{server_name}) ;
+		String sql = "select * from tb_proinfo where pro_id = ?" ;
+		db.doPstm(sql, new String[]{pro_id + ""}) ;
 		try {
 			ResultSet rs = db.getRs() ;
 			while(rs.next()) {
@@ -139,6 +141,7 @@ public class ServerInfoDao {
 			System.out.println(s.getServer_name()) ;
 		}
 		System.out.println(sDao.checkServerName("ËÄ´¨ºóÌ¨"));
+		System.out.println(sDao.getServerInfoByProId(62).size() ) ;
 		
 	}
 	
