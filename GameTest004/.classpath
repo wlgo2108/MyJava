@@ -21,5 +21,12 @@
 	<classpathentry kind="lib" path="C:/个人资料/代码/java/Java_Web_Examples-master/Java_Web_Examples-master/02/WebRoot/WEB-INF/lib/struts2-core-2.0.11.jar"/>
 	<classpathentry kind="lib" path="C:/个人资料/代码/java/Java_Web_Examples-master/Java_Web_Examples-master/02/WebRoot/WEB-INF/lib/xwork-2.0.4.jar"/>
 	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/json-lib-2.2.3-jdk15.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

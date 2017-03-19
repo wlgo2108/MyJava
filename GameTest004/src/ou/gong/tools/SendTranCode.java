@@ -202,6 +202,9 @@ public class SendTranCode {
 	
 	public String tt877805(TestCase ts,TranCodeInfo tf) {
 		String trancode = "877805" ;
+		if(tf.getGame_id() == 6 ) {
+			trancode = "877806" ;
+		}
     
     	String msg = trancode +";0;1;"+tf.getStation_id()+";1;"
     			+tf.getStation_id()+";"+tf.getGame_id()+";"+tf.getIssue()+";"+ts.getTsn()+";2;"+ts.getPre_win_nun()+";"+ts.getPre_win_result()+";" ;

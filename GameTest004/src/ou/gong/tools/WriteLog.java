@@ -108,12 +108,14 @@ public class WriteLog {
 				} else {
 
 					String[] checkStr = returnfromServer.split("，");
-					String yqResult = checkStr[0].split("预期结果为:")[1];
-					if (StringTools.checkStr(checkStr[1], checkStr[0].split("预期结果为:")[1])) {
-						passCount++;
-					} else {
-						failCount++;
-						errList.add(s);
+					if(checkStr.length > 1) {
+						String yqResult = checkStr[0].split("预期结果为:")[1];
+						if (StringTools.checkStr(checkStr[1], checkStr[0].split("预期结果为:")[1])) {
+							passCount++;
+						} else {
+							failCount++;
+							errList.add(s);
+						}
 					}
 
 				}

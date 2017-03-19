@@ -63,7 +63,7 @@ public class TestCase {
 	}
 
 	public void setQs(int qs) {
-		this.qs = qs;
+		this.qs =qs;
 	}
 
 	public int getPro_id() {
@@ -143,7 +143,7 @@ public class TestCase {
     }
 
     public void setPre_win_result(String pre_win_result) {
-        this.pre_win_result = pre_win_result;
+        this.pre_win_result=pre_win_result;
     }
 
     public String getResult() {
@@ -153,4 +153,17 @@ public class TestCase {
     public void setResult(String result) {
         this.result = result;
     }
+
+	@Override
+	public String toString() {
+		return "TestCase [game_id=" + game_id + ", pro_id=" + pro_id + ", tsn=" + tsn + ", title=" + title
+				+ ", comment=" + comment + ", serialNumber=" + serialNumber + ", returnFormServer=" + returnFormServer
+				+ ", play_type=" + play_type + ", bs=" + bs + ", qs=" + qs + ", wager_money=" + wager_money
+				+ ", wager_num=" + wager_num + ", pre_win_nun=" + pre_win_nun + ", pre_win_result=" + pre_win_result
+				+ ", result=" + result + ", money=" + money + "]";
+	}
+
+
+    
+    
 }

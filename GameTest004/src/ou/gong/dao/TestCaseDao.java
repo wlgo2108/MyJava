@@ -71,7 +71,7 @@ public class TestCaseDao {
 			String result_msg = tcd.tt877805(tc, tf) ;
 			System.out.println(result_msg) ;
 			
-			log.info("期号："+tf.getIssue()+ "票流水号:"+tsn+"服务器返回结果："+result_msg);
+			log.info("期号："+tf.getIssue()+ "用例编号:"+tc.getSerialNumber()+ "票流水号:"+tsn+"服务器返回结果："+result_msg);
 			log_msg.add(("[期号："+tf.getIssue()+ "][用例编号:"+tc.getSerialNumber()+"][票流水号:"+tsn+" ][服务器返回结果："+result_msg+"]")) ;
 			tsn ++ ;
 			if(StringTools.checkStr(result_msg, "999999")) {
