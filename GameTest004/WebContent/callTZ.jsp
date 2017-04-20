@@ -55,6 +55,7 @@
 	    return str.indexOf(substr) >= 0;
 	}
 	
+	
 	function getGameName(game) {
 		if (game == "B001") {
 			return ("双色球");
@@ -63,6 +64,7 @@
 		} else if (game == "3D") {
 			return ("3D");
 		} else if (game == "K3") {
+			
 			return ("快三");
 		} else if (game == "K512") {
 			return ("快乐十二");

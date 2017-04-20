@@ -28,5 +28,6 @@
 	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/ezmorph-1.0.3.jar"/>
 	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/个人资料/工具/java_jar/postgresql-42.0.0.jre6.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

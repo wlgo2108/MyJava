@@ -1,0 +1,556 @@
+
+[
+	
+{
+		"bs":1,"comment":"和值04","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"1|2|1|","pre_win_result":"1|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_001","title":"K3中奖检索","tsn":0,"wager_money":2,"wager_num":"04|;"
+	},
+{
+		"bs":1,"comment":"和值05","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"1|1|3|","pre_win_result":"2|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_002","title":"K3中奖检索","tsn":1,"wager_money":2,"wager_num":"05|;"
+	},
+{
+		"bs":1,"comment":"和值06","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"1|2|3|","pre_win_result":"3|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_003","title":"K3中奖检索","tsn":2,"wager_money":2,"wager_num":"06|;"
+	},
+{
+		"bs":1,"comment":"和值07","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"2|2|3|","pre_win_result":"4|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_004","title":"K3中奖检索","tsn":3,"wager_money":2,"wager_num":"07|;"
+	},
+{
+		"bs":1,"comment":"和值08","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"3|2|3|","pre_win_result":"5|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_005","title":"K3中奖检索","tsn":4,"wager_money":2,"wager_num":"08|;"
+	},
+{
+		"bs":1,"comment":"和值09","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"4|2|3|","pre_win_result":"6|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_006","title":"K3中奖检索","tsn":5,"wager_money":2,"wager_num":"09|;"
+	},
+{
+		"bs":1,"comment":"和值10","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"5|2|3|","pre_win_result":"7|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_007","title":"K3中奖检索","tsn":6,"wager_money":2,"wager_num":"10|;"
+	},
+{
+		"bs":1,"comment":"和值11","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"4|2|5|","pre_win_result":"7|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_008","title":"K3中奖检索","tsn":7,"wager_money":2,"wager_num":"11|;"
+	},
+{
+		"bs":1,"comment":"和值12","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"2|4|6|","pre_win_result":"6|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_009","title":"K3中奖检索","tsn":8,"wager_money":2,"wager_num":"12|;"
+	},
+{
+		"bs":1,"comment":"和值13","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"3|4|6|","pre_win_result":"5|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_010","title":"K3中奖检索","tsn":9,"wager_money":2,"wager_num":"13|;"
+	},
+{
+		"bs":1,"comment":"和值14","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"3|5|6|","pre_win_result":"4|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_011","title":"K3中奖检索","tsn":10,"wager_money":2,"wager_num":"14|;"
+	},
+{
+		"bs":1,"comment":"和值15","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"4|5|6|","pre_win_result":"3|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_012","title":"K3中奖检索","tsn":11,"wager_money":2,"wager_num":"15|;"
+	},
+{
+		"bs":1,"comment":"和值16","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"6|4|6|","pre_win_result":"2|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_013","title":"K3中奖检索","tsn":12,"wager_money":2,"wager_num":"16|;"
+	},
+{
+		"bs":1,"comment":"和值17","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"6|6|5|","pre_win_result":"1|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_014","title":"K3中奖检索","tsn":13,"wager_money":2,"wager_num":"17|;"
+	},
+{
+		"bs":1,"comment":"和值04_不中","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"4|5|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_015","title":"K3中奖检索","tsn":14,"wager_money":2,"wager_num":"04|;"
+	},
+{
+		"bs":1,"comment":"和值05_不中","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"3|4|1|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_016","title":"K3中奖检索","tsn":15,"wager_money":2,"wager_num":"05|;"
+	},
+{
+		"bs":1,"comment":"和值06_不中","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"4|5|2|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_017","title":"K3中奖检索","tsn":16,"wager_money":2,"wager_num":"06|;"
+	},
+{
+		"bs":1,"comment":"和值15_不中","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"1|2|1|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_018","title":"K3中奖检索","tsn":17,"wager_money":2,"wager_num":"15|;"
+	},
+{
+		"bs":1,"comment":"和值16_不中","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"1|1|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_019","title":"K3中奖检索","tsn":18,"wager_money":2,"wager_num":"16|;"
+	},
+{
+		"bs":1,"comment":"和值17_不中","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"1|2|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_020","title":"K3中奖检索","tsn":19,"wager_money":2,"wager_num":"17|;"
+	},
+{
+		"bs":1,"comment":"三同号通选","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"1|1|1|","pre_win_result":"8|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_021","title":"K3中奖检索","tsn":20,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"2|2|2|","pre_win_result":"8|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_022","title":"K3中奖检索","tsn":21,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"3|3|3|","pre_win_result":"8|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_023","title":"K3中奖检索","tsn":22,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"4|4|4|","pre_win_result":"8|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_024","title":"K3中奖检索","tsn":23,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"5|5|5|","pre_win_result":"8|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_025","title":"K3中奖检索","tsn":24,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"6|6|6|","pre_win_result":"8|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_026","title":"K3中奖检索","tsn":25,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选_不中","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"3|4|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_027","title":"K3中奖检索","tsn":26,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选_不中","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"3|5|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_028","title":"K3中奖检索","tsn":27,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选_不中","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"4|5|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_029","title":"K3中奖检索","tsn":28,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选_不中","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"1|2|5|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_030","title":"K3中奖检索","tsn":29,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选_不中","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"1|3|5|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_031","title":"K3中奖检索","tsn":30,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号通选_不中","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"1|2|5|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_032","title":"K3中奖检索","tsn":31,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三同号单选1","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"1|1|1|","pre_win_result":"9|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_033","title":"K3中奖检索","tsn":32,"wager_money":2,"wager_num":"1|1|1|;"
+	},
+{
+		"bs":1,"comment":"三同号单选2","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"2|2|2|","pre_win_result":"9|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_034","title":"K3中奖检索","tsn":33,"wager_money":2,"wager_num":"2|2|2|;"
+	},
+{
+		"bs":1,"comment":"三同号单选3","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"3|3|3|","pre_win_result":"9|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_035","title":"K3中奖检索","tsn":34,"wager_money":2,"wager_num":"3|3|3|;"
+	},
+{
+		"bs":1,"comment":"三同号单选4","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"4|4|4|","pre_win_result":"9|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_036","title":"K3中奖检索","tsn":35,"wager_money":2,"wager_num":"4|4|4|;"
+	},
+{
+		"bs":1,"comment":"三同号单选5","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"5|5|5|","pre_win_result":"9|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_037","title":"K3中奖检索","tsn":36,"wager_money":2,"wager_num":"5|5|5|;"
+	},
+{
+		"bs":1,"comment":"三同号单选6","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"6|6|6|","pre_win_result":"9|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_038","title":"K3中奖检索","tsn":37,"wager_money":2,"wager_num":"6|6|6|;"
+	},
+{
+		"bs":1,"comment":"三同号单选_不中","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"1|1|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_039","title":"K3中奖检索","tsn":38,"wager_money":2,"wager_num":"1|1|1|;"
+	},
+{
+		"bs":1,"comment":"三同号单选_不中","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"2|2|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_040","title":"K3中奖检索","tsn":39,"wager_money":2,"wager_num":"2|2|2|;"
+	},
+{
+		"bs":1,"comment":"三同号单选_不中","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"2|3|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_041","title":"K3中奖检索","tsn":40,"wager_money":2,"wager_num":"3|3|3|;"
+	},
+{
+		"bs":1,"comment":"三同号单选_不中","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"4|4|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_042","title":"K3中奖检索","tsn":41,"wager_money":2,"wager_num":"4|4|4|;"
+	},
+{
+		"bs":1,"comment":"三同号单选_不中","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"5|5|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_043","title":"K3中奖检索","tsn":42,"wager_money":2,"wager_num":"5|5|5|;"
+	},
+{
+		"bs":1,"comment":"三同号单选_不中","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"6|6|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_044","title":"K3中奖检索","tsn":43,"wager_money":2,"wager_num":"6|6|6|;"
+	},
+{
+		"bs":1,"comment":"二同号复选","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"1|1|3|","pre_win_result":"10|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_045","title":"K3中奖检索","tsn":44,"wager_money":2,"wager_num":"1|1|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"2|2|3|","pre_win_result":"10|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_046","title":"K3中奖检索","tsn":45,"wager_money":2,"wager_num":"2|2|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"3|3|4|","pre_win_result":"10|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_047","title":"K3中奖检索","tsn":46,"wager_money":2,"wager_num":"3|3|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"4|4|3|","pre_win_result":"10|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_048","title":"K3中奖检索","tsn":47,"wager_money":2,"wager_num":"4|4|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"5|5|3|","pre_win_result":"10|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_049","title":"K3中奖检索","tsn":48,"wager_money":2,"wager_num":"5|5|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"6|6|3|","pre_win_result":"10|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_050","title":"K3中奖检索","tsn":49,"wager_money":2,"wager_num":"6|6|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选_不中","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"1|2|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_051","title":"K3中奖检索","tsn":50,"wager_money":2,"wager_num":"1|1|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选_不中","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"3|3|2|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_052","title":"K3中奖检索","tsn":51,"wager_money":2,"wager_num":"2|2|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选_不中","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"4|4|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_053","title":"K3中奖检索","tsn":52,"wager_money":2,"wager_num":"3|3|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选_不中","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"5|5|4|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_054","title":"K3中奖检索","tsn":53,"wager_money":2,"wager_num":"4|4|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选_不中","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"6|6|5|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_055","title":"K3中奖检索","tsn":54,"wager_money":2,"wager_num":"5|5|255|;"
+	},
+{
+		"bs":1,"comment":"二同号复选_不中","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"2|3|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_056","title":"K3中奖检索","tsn":55,"wager_money":2,"wager_num":"6|6|255|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"1|1|2|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_057","title":"K3中奖检索","tsn":56,"wager_money":2,"wager_num":"1|1|2|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"1|1|3|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_058","title":"K3中奖检索","tsn":57,"wager_money":2,"wager_num":"1|1|3|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"1|1|4|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_059","title":"K3中奖检索","tsn":58,"wager_money":2,"wager_num":"1|1|4|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"1|1|5|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_060","title":"K3中奖检索","tsn":59,"wager_money":2,"wager_num":"1|1|5|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"1|1|6|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_061","title":"K3中奖检索","tsn":60,"wager_money":2,"wager_num":"1|1|6|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"2|2|1|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_062","title":"K3中奖检索","tsn":61,"wager_money":2,"wager_num":"2|2|1|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"2|2|3|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_063","title":"K3中奖检索","tsn":62,"wager_money":2,"wager_num":"2|2|3|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"2|2|4|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_064","title":"K3中奖检索","tsn":63,"wager_money":2,"wager_num":"2|2|4|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"2|2|5|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_065","title":"K3中奖检索","tsn":64,"wager_money":2,"wager_num":"2|2|5|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"2|2|6|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_066","title":"K3中奖检索","tsn":65,"wager_money":2,"wager_num":"2|2|6|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"3|3|1|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_067","title":"K3中奖检索","tsn":66,"wager_money":2,"wager_num":"3|3|1|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"3|3|2|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_068","title":"K3中奖检索","tsn":67,"wager_money":2,"wager_num":"3|3|2|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"3|3|4|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_069","title":"K3中奖检索","tsn":68,"wager_money":2,"wager_num":"3|3|4|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"3|3|5|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_070","title":"K3中奖检索","tsn":69,"wager_money":2,"wager_num":"3|3|5|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"3|3|6|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_071","title":"K3中奖检索","tsn":70,"wager_money":2,"wager_num":"3|3|6|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"4|4|1|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_072","title":"K3中奖检索","tsn":71,"wager_money":2,"wager_num":"4|4|1|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"4|4|2|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_073","title":"K3中奖检索","tsn":72,"wager_money":2,"wager_num":"4|4|2|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"4|4|3|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_074","title":"K3中奖检索","tsn":73,"wager_money":2,"wager_num":"4|4|3|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"4|4|5|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_075","title":"K3中奖检索","tsn":74,"wager_money":2,"wager_num":"4|4|5|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"4|4|6|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_076","title":"K3中奖检索","tsn":75,"wager_money":2,"wager_num":"4|4|6|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"5|5|1|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_077","title":"K3中奖检索","tsn":76,"wager_money":2,"wager_num":"5|5|1|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"5|5|2|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_078","title":"K3中奖检索","tsn":77,"wager_money":2,"wager_num":"5|5|2|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"5|5|3|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_079","title":"K3中奖检索","tsn":78,"wager_money":2,"wager_num":"5|5|3|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"5|5|4|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_080","title":"K3中奖检索","tsn":79,"wager_money":2,"wager_num":"5|5|4|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"5|5|6|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_081","title":"K3中奖检索","tsn":80,"wager_money":2,"wager_num":"5|5|6|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"6|6|1|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_082","title":"K3中奖检索","tsn":81,"wager_money":2,"wager_num":"6|6|1|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"6|6|2|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_083","title":"K3中奖检索","tsn":82,"wager_money":2,"wager_num":"6|6|2|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"6|6|3|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_084","title":"K3中奖检索","tsn":83,"wager_money":2,"wager_num":"6|6|3|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"6|6|4|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_085","title":"K3中奖检索","tsn":84,"wager_money":2,"wager_num":"6|6|4|;"
+	},
+{
+		"bs":1,"comment":"二同号单选","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"6|6|5|","pre_win_result":"11|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_086","title":"K3中奖检索","tsn":85,"wager_money":2,"wager_num":"6|6|5|;"
+	},
+{
+		"bs":1,"comment":"二同号单选_不中","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"1|4|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_087","title":"K3中奖检索","tsn":86,"wager_money":2,"wager_num":"1|1|2|;"
+	},
+{
+		"bs":1,"comment":"二同号单选_不中","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"1|5|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_088","title":"K3中奖检索","tsn":87,"wager_money":2,"wager_num":"1|1|3|;"
+	},
+{
+		"bs":1,"comment":"二同号单选_不中","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"2|3|4|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_089","title":"K3中奖检索","tsn":88,"wager_money":2,"wager_num":"1|1|4|;"
+	},
+{
+		"bs":1,"comment":"二同号单选_不中","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"2|3|5|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_090","title":"K3中奖检索","tsn":89,"wager_money":2,"wager_num":"6|6|3|;"
+	},
+{
+		"bs":1,"comment":"二同号单选_不中","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"2|3|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_091","title":"K3中奖检索","tsn":90,"wager_money":2,"wager_num":"6|6|4|;"
+	},
+{
+		"bs":1,"comment":"二同号单选_不中","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"2|4|5|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_092","title":"K3中奖检索","tsn":91,"wager_money":2,"wager_num":"6|6|5|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|2|3|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_093","title":"K3中奖检索","tsn":92,"wager_money":2,"wager_num":"1|2|3|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|2|4|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_094","title":"K3中奖检索","tsn":93,"wager_money":2,"wager_num":"1|2|4|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|2|5|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_095","title":"K3中奖检索","tsn":94,"wager_money":2,"wager_num":"1|2|5|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|2|6|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_096","title":"K3中奖检索","tsn":95,"wager_money":2,"wager_num":"1|2|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|3|4|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_097","title":"K3中奖检索","tsn":96,"wager_money":2,"wager_num":"1|3|4|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|3|5|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_098","title":"K3中奖检索","tsn":97,"wager_money":2,"wager_num":"1|3|5|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|3|6|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_099","title":"K3中奖检索","tsn":98,"wager_money":2,"wager_num":"1|3|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|4|5|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_100","title":"K3中奖检索","tsn":99,"wager_money":2,"wager_num":"1|4|5|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|4|6|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_101","title":"K3中奖检索","tsn":100,"wager_money":2,"wager_num":"1|4|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|5|6|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_102","title":"K3中奖检索","tsn":101,"wager_money":2,"wager_num":"1|5|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"2|3|4|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_103","title":"K3中奖检索","tsn":102,"wager_money":2,"wager_num":"2|3|4|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"3|5|2|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_104","title":"K3中奖检索","tsn":103,"wager_money":2,"wager_num":"2|3|5|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"2|3|6|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_105","title":"K3中奖检索","tsn":104,"wager_money":2,"wager_num":"2|3|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"2|4|5|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_106","title":"K3中奖检索","tsn":105,"wager_money":2,"wager_num":"2|4|5|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"2|4|6|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_107","title":"K3中奖检索","tsn":106,"wager_money":2,"wager_num":"2|4|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"2|5|6|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_108","title":"K3中奖检索","tsn":107,"wager_money":2,"wager_num":"2|5|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"3|4|5|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_109","title":"K3中奖检索","tsn":108,"wager_money":2,"wager_num":"3|4|5|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"3|4|6|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_110","title":"K3中奖检索","tsn":109,"wager_money":2,"wager_num":"3|4|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"3|5|6|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_111","title":"K3中奖检索","tsn":110,"wager_money":2,"wager_num":"3|5|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"4|5|6|","pre_win_result":"12|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_112","title":"K3中奖检索","tsn":111,"wager_money":2,"wager_num":"4|5|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号_不中","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|2|2|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_113","title":"K3中奖检索","tsn":112,"wager_money":2,"wager_num":"1|2|3|;"
+	},
+{
+		"bs":1,"comment":"三不同号_不中","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|3|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_114","title":"K3中奖检索","tsn":113,"wager_money":2,"wager_num":"1|2|4|;"
+	},
+{
+		"bs":1,"comment":"三不同号_不中","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|4|4|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_115","title":"K3中奖检索","tsn":114,"wager_money":2,"wager_num":"1|2|5|;"
+	},
+{
+		"bs":1,"comment":"三不同号_不中","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|5|5|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_116","title":"K3中奖检索","tsn":115,"wager_money":2,"wager_num":"3|4|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号_不中","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|6|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_117","title":"K3中奖检索","tsn":116,"wager_money":2,"wager_num":"3|5|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号_不中","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"2|1|1|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_118","title":"K3中奖检索","tsn":117,"wager_money":2,"wager_num":"4|5|6|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"1|2|2|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_119","title":"K3中奖检索","tsn":118,"wager_money":2,"wager_num":"1|2|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"3|1|3|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_120","title":"K3中奖检索","tsn":119,"wager_money":2,"wager_num":"1|3|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"1|4|4|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_121","title":"K3中奖检索","tsn":120,"wager_money":2,"wager_num":"1|4|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"1|5|5|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_122","title":"K3中奖检索","tsn":121,"wager_money":2,"wager_num":"1|5|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"1|6|6|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_123","title":"K3中奖检索","tsn":122,"wager_money":2,"wager_num":"1|6|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"2|1|1|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_124","title":"K3中奖检索","tsn":123,"wager_money":2,"wager_num":"2|1|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"2|3|3|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_125","title":"K3中奖检索","tsn":124,"wager_money":2,"wager_num":"2|3|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"2|4|4|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_126","title":"K3中奖检索","tsn":125,"wager_money":2,"wager_num":"2|4|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"2|5|5|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_127","title":"K3中奖检索","tsn":126,"wager_money":2,"wager_num":"2|5|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"2|6|6|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_128","title":"K3中奖检索","tsn":127,"wager_money":2,"wager_num":"2|6|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"3|1|1|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_129","title":"K3中奖检索","tsn":128,"wager_money":2,"wager_num":"3|1|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"3|2|2|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_130","title":"K3中奖检索","tsn":129,"wager_money":2,"wager_num":"3|2|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"3|4|4|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_131","title":"K3中奖检索","tsn":130,"wager_money":2,"wager_num":"3|4|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"3|5|5|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_132","title":"K3中奖检索","tsn":131,"wager_money":2,"wager_num":"3|5|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"3|6|6|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_133","title":"K3中奖检索","tsn":132,"wager_money":2,"wager_num":"3|6|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"4|1|1|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_134","title":"K3中奖检索","tsn":133,"wager_money":2,"wager_num":"4|1|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"2|4|2|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_135","title":"K3中奖检索","tsn":134,"wager_money":2,"wager_num":"4|2|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"4|3|3|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_136","title":"K3中奖检索","tsn":135,"wager_money":2,"wager_num":"4|3|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"4|5|5|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_137","title":"K3中奖检索","tsn":136,"wager_money":2,"wager_num":"4|5|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"4|6|6|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_138","title":"K3中奖检索","tsn":137,"wager_money":2,"wager_num":"4|6|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"4|5|1|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_139","title":"K3中奖检索","tsn":138,"wager_money":2,"wager_num":"5|1|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"5|6|2|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_140","title":"K3中奖检索","tsn":139,"wager_money":2,"wager_num":"5|2|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"5|3|3|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_141","title":"K3中奖检索","tsn":140,"wager_money":2,"wager_num":"5|3|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"5|4|4|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_142","title":"K3中奖检索","tsn":141,"wager_money":2,"wager_num":"5|4|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"5|6|6|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_143","title":"K3中奖检索","tsn":142,"wager_money":2,"wager_num":"5|6|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"6|1|1|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_144","title":"K3中奖检索","tsn":143,"wager_money":2,"wager_num":"6|1|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"6|2|2|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_145","title":"K3中奖检索","tsn":144,"wager_money":2,"wager_num":"6|2|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"6|3|3|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_146","title":"K3中奖检索","tsn":145,"wager_money":2,"wager_num":"6|3|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"6|4|4|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_147","title":"K3中奖检索","tsn":146,"wager_money":2,"wager_num":"6|4|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"6|5|5|","pre_win_result":"13|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_148","title":"K3中奖检索","tsn":147,"wager_money":2,"wager_num":"6|5|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号_不中","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"1|3|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_149","title":"K3中奖检索","tsn":148,"wager_money":2,"wager_num":"1|2|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号_不中","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"2|3|4|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_150","title":"K3中奖检索","tsn":149,"wager_money":2,"wager_num":"1|3|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号_不中","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"3|4|5|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_151","title":"K3中奖检索","tsn":150,"wager_money":2,"wager_num":"1|4|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号_不中","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"4|5|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_152","title":"K3中奖检索","tsn":151,"wager_money":2,"wager_num":"6|3|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号_不中","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"3|4|5|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_153","title":"K3中奖检索","tsn":152,"wager_money":2,"wager_num":"6|4|255|;"
+	},
+{
+		"bs":1,"comment":"二不同号_不中","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"4|4|6|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_154","title":"K3中奖检索","tsn":153,"wager_money":2,"wager_num":"6|5|255|;"
+	},
+{
+		"bs":1,"comment":"三连号通选","game_id":6,"money":0.0,"play_type":9350,"pre_win_nun":"1|2|3|","pre_win_result":"14|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_155","title":"K3中奖检索","tsn":154,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三连号通选","game_id":6,"money":0.0,"play_type":9350,"pre_win_nun":"2|3|4|","pre_win_result":"14|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_156","title":"K3中奖检索","tsn":155,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三连号通选","game_id":6,"money":0.0,"play_type":9350,"pre_win_nun":"3|4|5|","pre_win_result":"14|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_157","title":"K3中奖检索","tsn":156,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三连号通选","game_id":6,"money":0.0,"play_type":9350,"pre_win_nun":"4|5|6|","pre_win_result":"14|1|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_158","title":"K3中奖检索","tsn":157,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三连号通选_不中","game_id":6,"money":0.0,"play_type":9350,"pre_win_nun":"6|1|1|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_159","title":"K3中奖检索","tsn":158,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三连号通选_不中","game_id":6,"money":0.0,"play_type":9350,"pre_win_nun":"6|2|2|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_160","title":"K3中奖检索","tsn":159,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三连号通选_不中","game_id":6,"money":0.0,"play_type":9350,"pre_win_nun":"6|3|3|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_161","title":"K3中奖检索","tsn":160,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"三连号通选_不中","game_id":6,"money":0.0,"play_type":9350,"pre_win_nun":"6|4|4|","pre_win_result":"","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_162","title":"K3中奖检索","tsn":161,"wager_money":2,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":1,"comment":"和值5注","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"1|2|1|","pre_win_result":"1|3|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_163","title":"K3中奖检索","tsn":162,"wager_money":10,"wager_num":"04|;17|;04|;04|;09|;"
+	},
+{
+		"bs":50,"comment":"和值04_50倍","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"1|2|1|","pre_win_result":"1|50|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_164","title":"K3中奖检索","tsn":163,"wager_money":100,"wager_num":"04|;"
+	},
+{
+		"bs":50,"comment":"和值5注_50倍","game_id":6,"money":0.0,"play_type":9300,"pre_win_nun":"1|2|1|","pre_win_result":"1|150|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_165","title":"K3中奖检索","tsn":164,"wager_money":500,"wager_num":"04|;17|;04|;04|;09|;"
+	},
+{
+		"bs":1,"comment":"三同号5注","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"1|1|1|","pre_win_result":"9|3|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_166","title":"K3中奖检索","tsn":165,"wager_money":10,"wager_num":"1|1|1|;3|3|3|;1|1|1|;5|5|5|;1|1|1|;"
+	},
+{
+		"bs":50,"comment":"三同号单选_50倍","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"2|2|2|","pre_win_result":"9|50|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_167","title":"K3中奖检索","tsn":166,"wager_money":100,"wager_num":"2|2|2|;"
+	},
+{
+		"bs":50,"comment":"三同号单选_5注_50倍","game_id":6,"money":0.0,"play_type":9311,"pre_win_nun":"6|6|6|","pre_win_result":"9|150|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_168","title":"K3中奖检索","tsn":167,"wager_money":500,"wager_num":"6|6|6|;1|1|1|;6|6|6|;3|3|3|;6|6|6|;"
+	},
+{
+		"bs":1,"comment":"二同号单选5注","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"5|6|6|","pre_win_result":"11|2|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_169","title":"K3中奖检索","tsn":168,"wager_money":10,"wager_num":"1|1|2|;6|6|5|;3|3|6|;3|6|6|;5|6|6|;"
+	},
+{
+		"bs":50,"comment":"二同号单选_50倍","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"1|1|6|","pre_win_result":"11|50|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_170","title":"K3中奖检索","tsn":169,"wager_money":100,"wager_num":"1|1|6|;"
+	},
+{
+		"bs":50,"comment":"二同号单选_5注_50倍","game_id":6,"money":0.0,"play_type":9321,"pre_win_nun":"4|4|5|","pre_win_result":"11|100|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_171","title":"K3中奖检索","tsn":170,"wager_money":500,"wager_num":"1|1|2|;4|4|5|;3|3|6|;4|4|5|;5|6|6|;"
+	},
+{
+		"bs":1,"comment":"三不同号5注","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|3|6|","pre_win_result":"12|3|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_172","title":"K3中奖检索","tsn":171,"wager_money":10,"wager_num":"1|3|6|;4|5|6|;1|3|6|;1|2|3|;1|3|6|;"
+	},
+{
+		"bs":50,"comment":"三不同号_50倍","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"1|2|4|","pre_win_result":"12|50|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_173","title":"K3中奖检索","tsn":172,"wager_money":100,"wager_num":"1|2|4|;"
+	},
+{
+		"bs":50,"comment":"三不同号_5注_50倍","game_id":6,"money":0.0,"play_type":9330,"pre_win_nun":"4|5|6|","pre_win_result":"12|100|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_174","title":"K3中奖检索","tsn":173,"wager_money":500,"wager_num":"2|3|6|;4|5|6|;1|3|6|;4|5|6|;1|5|6|;"
+	},
+{
+		"bs":1,"comment":"二不同号5注","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"1|6|2|","pre_win_result":"13|3|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_175","title":"K3中奖检索","tsn":174,"wager_money":10,"wager_num":"1|6|255|;1|2|255|;1|6|255|;3|5|255|;2|3|255|;"
+	},
+{
+		"bs":50,"comment":"二不同号_50倍","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"4|3|3|","pre_win_result":"13|50|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_176","title":"K3中奖检索","tsn":175,"wager_money":100,"wager_num":"4|3|255|;"
+	},
+{
+		"bs":50,"comment":"二不同号_5注_50倍","game_id":6,"money":0.0,"play_type":9340,"pre_win_nun":"1|2|5|","pre_win_result":"13|150|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_177","title":"K3中奖检索","tsn":176,"wager_money":500,"wager_num":"2|6|255|;1|2|255|;1|5|255|;1|2|255|;2|3|255|;"
+	},
+{
+		"bs":5,"comment":"三同号通选_5倍","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"2|2|2|","pre_win_result":"8|5|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_178","title":"K3中奖检索","tsn":177,"wager_money":10,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":50,"comment":"三同号通选_50倍","game_id":6,"money":0.0,"play_type":9310,"pre_win_nun":"2|2|2|","pre_win_result":"8|50|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_179","title":"K3中奖检索","tsn":178,"wager_money":100,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":50,"comment":"二同号复选_3注_50倍","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"3|3|3|","pre_win_result":"10|50|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_180","title":"K3中奖检索","tsn":179,"wager_money":300,"wager_num":"1|1|255|;3|3|255|;6|6|255|;"
+	},
+{
+		"bs":20,"comment":"二同号复选_5注_20倍","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"5|5|3|","pre_win_result":"10|40|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_181","title":"K3中奖检索","tsn":180,"wager_money":200,"wager_num":"1|1|255|;5|5|255|;6|6|255|;4|4|255|;5|5|255|;"
+	},
+{
+		"bs":50,"comment":"二同号复选_5注_50倍","game_id":6,"money":0.0,"play_type":9320,"pre_win_nun":"2|2|3|","pre_win_result":"10|100|0|","pro_id":62,"qs":1,"result":"","returnFormServer":"","serialNumber":"GS_K3_182","title":"K3中奖检索","tsn":181,"wager_money":500,"wager_num":"1|1|255|;2|2|255|;6|6|255|;4|4|255|;2|2|255|;"
+	},
+{
+		"bs":20,"comment":"三连号通选_20倍","game_id":6,"money":0.0,"play_type":9350,"pre_win_nun":"3|1|2|","pre_win_result":"14|20|0|","pro_id":62,"qs":1,"result":"fail","returnFormServer":"","serialNumber":"GS_K3_183","title":"K3中奖检索","tsn":182,"wager_money":40,"wager_num":"255|255|255|;"
+	},
+{
+		"bs":50,"comment":"三连号通选_50倍","game_id":6,"money":0.0,"play_type":9350,"pre_win_nun":"2|3|4|","pre_win_result":"14|50|0|","pro_id":62,"qs":1,"result":"pass","returnFormServer":"","serialNumber":"GS_K3_184","title":"K3中奖检索","tsn":183,"wager_money":100,"wager_num":"255|255|255|;"
+	}
+]

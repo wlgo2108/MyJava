@@ -1,3 +1,5 @@
 eclipse.preferences.version=1
+encoding//WebContent/GSB001.json=UTF-8
+encoding//WebContent/GSK3.json=UTF-8
 encoding//src/ou/gong/dao/TestCaseDao.java=UTF-8
 encoding//src/ou/gong/tools/MyPagination.java=UTF-8

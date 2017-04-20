@@ -26,6 +26,9 @@ public class ServerInfoDao {
 				sinfo = new ServerInfo() ;
 				sinfo.setDb_ip(rs.getString("db_ip")) ;
 				sinfo.setDb_port(rs.getInt("db_port")) ;
+				sinfo.setDb_pass(rs.getString("db_pwd")) ;
+				sinfo.setDb_username(rs.getString("db_username"));
+				sinfo.setDb_type(rs.getString("db_type"));
 				sinfo.setDbName(rs.getString("db_name")) ;
 				sinfo.setDownload_path(rs.getString("download_path")) ;
 				sinfo.setGame_num(rs.getInt("game_num")) ;

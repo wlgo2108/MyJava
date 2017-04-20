@@ -15,8 +15,29 @@ public class ServerInfo {
 	private String download_path ; //下载文件路径
 	
 	private String server_name ;//服务器名称
+	private String db_username ;
+	private String db_type ;
+	private String db_pass ;
 	
 	
+	public String getDb_username() {
+		return db_username;
+	}
+	public void setDb_username(String db_username) {
+		this.db_username = db_username;
+	}
+	public String getDb_type() {
+		return db_type;
+	}
+	public void setDb_type(String db_type) {
+		this.db_type = db_type;
+	}
+	public String getDb_pass() {
+		return db_pass;
+	}
+	public void setDb_pass(String db_pass) {
+		this.db_pass = db_pass;
+	}
 	public String getServer_name() {
 		return server_name;
 	}

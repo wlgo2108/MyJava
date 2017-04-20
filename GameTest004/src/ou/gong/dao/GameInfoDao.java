@@ -46,6 +46,39 @@ public class GameInfoDao {
 		
 	}
 	
+	
+	public  int getGameID(int pro_id,int game_type ) {
+		int game_id = 0 ;
+		String sql = "select game_id from tb_proinfo ,tb_game where "
+				+ "tb_game.pro_id = tb_proinfo.pro_id and tb_proinfo.pro_id = ? "
+				+ "and tb_game.game_type = ?" ;
+		
+		db.doPstm(sql, new String[]{pro_id+"",game_type+""}) ;
+		ResultSet rs = null ;
+		try {
+			rs = db.getRs() ;
+			if(rs.next()) {
+				game_id = rs.getInt("game_id") ;
+			}
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}finally {
+			if(rs != null ) {
+				try {
+					rs.close() ;
+				} catch (SQLException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+			
+			db.closed() ; 
+		}
+		
+		return game_id ;
+		
+	}
 	public String getSheetTable(String server_name,String game_name) {
 		String sheet_name = "" ;
 		System.out.println(server_name + game_name);
@@ -79,5 +112,9 @@ public class GameInfoDao {
 		return sheet_name ;
 	}
 	
+	
+	public static void main(String[] args) {
+		System.out.println(new GameInfoDao().getGameID(62, 10003));
+	}
 
 }

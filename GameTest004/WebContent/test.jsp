@@ -96,8 +96,81 @@
 
 </head>
 <body>
+<div>
+	<input type="text" name="key" id="key" value=""> <button id="btn_select" onClick="selectValue()">搜索</button>
+</div>
 <div id = "div1"></div>
- <script type="text/javascript" charset="utf-8">  
+ <script type="text/javascript" charset="utf-8"> 
+ 
+ function selectValue() {
+	 	var key = "" 
+		var h= "<table id='tb' border='1'>"; 
+		   // alert("加载..............");  
+		
+		 key = document.getElementById("key").value ;
+		   
+			h+= "<tr>"  ;
+			h+= "<td>用户名称</td>" ;
+			h+= "<td>用户编号</td>" ;
+			h+= "<td>投注倍数</td>" ;
+			h+= "<td>投注金额</td>" ;
+			h+= "<td>玩法编号</td>" ;
+			h+= "<td>投注号码</td>" ;
+			h+= "<td>中奖号码</td>" ;
+			h+= "<td>预期结果</td>" ;
+			h+= "<td>执行结果</td>" ;
+			h+= "<td><input type='checkbox' id = 'checkAll' onclick='checkValue()' checked>操作</td>" ;
+			h+= "</tr>" ;
+			
+		    $.getJSON("GSB001.json",function(data){   
+		        //通过循环取出data里面的值         
+		        $.each(data,function(i,value){ 
+		        	if(value.play_type == key||value.serialNumber.indexOf(key)>-1 ) {
+		        		
+		        		if(value.result == "pass") {
+			        		h+= "<tr bgcolor='14DB53'>" ;
+			        	}else if(value.result == "fail"){
+			        		h+= "<tr bgcolor='FA0019'>" ;
+			        	} else {
+			        		h+= "<tr>" ;
+			        	}
+			        	h+= "<td><input type='text' value = '"+value.comment+"' ></td>" ;
+			            h+= "<td><input type='text' value = '"+value.serialNumber+"' ></td>" ;
+			            h+= "<td>"+value.bs+"</td>" ;
+			            h+= "<td>"+value.wager_money+"</td>" ;
+			            h+= "<td>"+value.play_type+"</td>" ;
+			            h+= "<td><input type='text' value = '"+value.wager_num+"' ></td>" ;
+			            h+= "<td>"+value.pre_win_nun+"</td>" ;
+			            h+= "<td><input type='text' value = '"+value.pre_win_result+"' ></td>" ;
+			            h+= "<td>"+value.result+"</td>" ;
+			            h+= "<td><input type='checkbox' id = 'all' name = 'ts' value='"+value.serialNumber+""' checked></td>" ;
+			            h+= "</tr>" ;
+		        	} else if(key == "") {
+		        		if(value.result == "pass") {
+			        		h+= "<tr bgcolor='14DB53'>" ;
+			        	}else if(value.result == "fail"){
+			        		h+= "<tr bgcolor='FA0019'>" ;
+			        	} else {
+			        		h+= "<tr>" ;
+			        	}
+			        	h+= "<td><input type='text' value = '"+value.comment+"' ></td>" ;
+			            h+= "<td><input type='text' value = '"+value.serialNumber+"' ></td>" ;
+			            h+= "<td>"+value.bs+"</td>" ;
+			            h+= "<td>"+value.wager_money+"</td>" ;
+			            h+= "<td>"+value.play_type+"</td>" ;
+			            h+= "<td><input type='text' value = '"+value.wager_num+"' ></td>" ;
+			            h+= "<td>"+value.pre_win_nun+"</td>" ;
+			            h+= "<td><input type='text' value = '"+value.pre_win_result+"' ></td>" ;
+			            h+= "<td>"+value.result+"</td>" ;
+			            h+= "<td><input type='checkbox' id = 'all' name = 'ts' checked></td>" ;
+			            h+= "</tr>" ;
+		        	}
+		        });    
+		        h+="</table>" ;
+		    	document.getElementById("div1").innerHTML = h ;
+		    });  
+ 
+ }
     //初始加载页面时     
       
 $(document).ready(function(){ 
@@ -105,13 +178,14 @@ $(document).ready(function(){
 	var h= "<table id='tb' border='1'>"; 
    // alert("加载..............");  
     var city=$("#city");//下拉框   
-   
+   	
    
 	h+= "<tr>"  ;
 	h+= "<td>用户名称</td>" ;
 	h+= "<td>用户编号</td>" ;
 	h+= "<td>投注倍数</td>" ;
 	h+= "<td>投注金额</td>" ;
+	h+= "<td>玩法编号</td>" ;
 	h+= "<td>投注号码</td>" ;
 	h+= "<td>中奖号码</td>" ;
 	h+= "<td>预期结果</td>" ;
@@ -133,6 +207,7 @@ $(document).ready(function(){
             h+= "<td><input type='text' value = '"+value.serialNumber+"' ></td>" ;
             h+= "<td>"+value.bs+"</td>" ;
             h+= "<td>"+value.wager_money+"</td>" ;
+            h+= "<td>"+value.play_type+"</td>" ;
             h+= "<td><input type='text' value = '"+value.wager_num+"' ></td>" ;
             h+= "<td>"+value.pre_win_nun+"</td>" ;
             h+= "<td><input type='text' value = '"+value.pre_win_result+"' ></td>" ;
